@@ -39,7 +39,7 @@ funkcijas, pateikti/nuskaityti sutarčiai reikalingus duomenis.
 Planas maximum (papildomai iki 1 balo prie užduoties!): praplėsto funkcionalamo (ir
 dizaino) aplikacija. Čia žiūrėkite kūrybiškai, atsižvelgiant į turimą laiką, patirtį ir galimybes.
 
-# Kai veikia 
+# Kaip veikia 
 
 Pasileidžiate porgramą
 Atsidarote Ganache duomenų baze
@@ -49,5 +49,7 @@ Colipilinti naudojate truffle node.js
 # Žaidimas
 
 Paisleidi 
-PAsirenki kuris b8si žaidėjas 
-KAi yra abu žaidėjai pradedate žaisti 
+Pasirenki kuris būsi žaidėjas 
+Kai yra abu žaidėjai pradedate žaisti 
+![image](https://user-images.githubusercontent.com/75576100/146455707-fa96476d-0610-4c6c-af2e-011a9d556962.png)
+
